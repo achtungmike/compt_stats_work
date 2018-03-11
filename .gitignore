@@ -1,7 +1,8 @@
 # Ignore Everything
 *
+!*/
 # Except R and python files
-!.py
-!.ipynb
-!.r
-!.rmd
+!*.py
+!*.ipynb
+!*.r
+!*.Rmd
